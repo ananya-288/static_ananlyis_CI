@@ -25,7 +25,7 @@ SECRET_KEY = 'oa2tgtp=hbye&lvgfz0-isoj*!fw)cps5-61th8kft*wvm@lhk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['005f1b40091f4717bc5615c9d5641991.vfs.cloud9.us-east-1.amazonaws.com','ebmovie.eba-t8kehmin.us-east-1.elasticbeanstalk.com']
 
 
 # Application definition
